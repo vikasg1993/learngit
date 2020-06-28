@@ -1,3 +1,5 @@
 this is the first file for learngit repo
 
 change file after first commit
+
+added newline on 28/06/2020
