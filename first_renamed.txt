@@ -3,6 +3,6 @@ this is the first file for learngit repo
 change file after first commit
 
 this will serve as comment
-//	added newline on 28/06/2020
+added newline on 28/06/2020
 
 this is a changed code
